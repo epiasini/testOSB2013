@@ -2,4 +2,5 @@
 	<!-- This LEMS file is going to describe a simulation -->
 	<Include file="NeuroMLCoreDimensions.xml"/>
 	<!-- Another useless comment -->
+	<!-- comments, comments, comments -->
 </Lems>
